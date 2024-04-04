@@ -7,7 +7,8 @@ const EmptyProd = () => {
       <XCircle className="w-16 h-16 text-gray-500" />
       <h1 className="text-2xl font-bold text-gray-500">No products found</h1>
       <p className="text-gray-500">
-        Try adjusting your search or filters to find what you're looking for.
+        Try adjusting your search or filters to find what you&apos;re looking
+        for.
       </p>
     </div>
   );

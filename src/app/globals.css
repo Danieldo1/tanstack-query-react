@@ -95,5 +95,10 @@
 
 .filter-content {
   padding: 20px;
-  /* Additional styles for your filter content */
+ padding-top: 20px;
+}
+
+.text1{
+  font-family: var(--rubik-font);
+  font-weight: 400;
 }
